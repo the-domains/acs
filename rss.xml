@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[ACS]]></title>
         <description><![CDATA[ACS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/acs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 17:51:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Dec 2015 18:34:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/acs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ACS Priority Notifications]]></title>
+            <description><![CDATA[<article><h1>ACS Priority Notifications</h1><p>ACS Priority Notifications Email Forms</p><img src="http://cdn-images.mailchimp.com/monkey_rewards/MC_MonkeyReward_05.png"></article>]]></description>
+            <link>http://acs-soft.us9.list-manage.com/subscribe?u=d3896b38254dc7cf1a2c3edea&amp;id=8228aa6780</link>
+            <guid isPermaLink="false">3db5a4ba-21f5-42dc-9156-283815eefc26</guid>
+            <pubDate>Mon, 21 Dec 2015 18:33:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Advanced Computer Services]]></title>
-            <description><![CDATA[<article><h1>Advanced Computer Services</h1><p>ACS is a software development company dedicated to providing efficient custom software to fit the needs of city governments, municipalities, utility companies and accountants</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d70b2e6f83df06ff78d50ad9ac842f758ad62b42.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>Advanced Computer Services</h1><p>ACS is a software development company dedicated to providing efficient custom software to fit the needs of city governments, municipalities, utility companies and accountants</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/65354b86be6350705287948095414628/noop.gif?input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fd70b2e6f83df06ff78d50ad9ac842f758ad62b42.gif"></article>]]></description>
             <link>http://planetacs.net/</link>
             <guid isPermaLink="false">65241120-79bb-4743-b490-b78e564e05fa</guid>
             <pubDate>Mon, 21 Dec 2015 17:51:46 GMT</pubDate>
