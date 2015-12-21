@@ -1,0 +1,28 @@
+name: ACS
+favicon: null
+layout_spectrum: 0.27831505541689694
+typography_spectrum: 0.5422867394518107
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.19850085000507534
+  lightness: 0.09188519231975079
+  saturation: 0.8537715615238994
+  rhythmicContrast: 0.7778099498245865
+purpose: []
